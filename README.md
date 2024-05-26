@@ -75,7 +75,7 @@ Instalar Raptor
 - Atributos: Los atributos son variables o propiedades asociadas a una clase que representan las características o datos que tienen los objetos creados a partir de esa clase. Los atributos definen el estado de un objeto y pueden ser de diferentes tipos, como enteros, cadenas, booleanos, etc.
 - Métodos: Los métodos son funciones o procedimientos asociados a una clase que definen el comportamiento o las acciones que pueden realizar los objetos creados a partir de esa clase. Los métodos pueden acceder y manipular los atributos de la clase y realizar diversas operaciones.
 
-## Authors
+## Author
 
 - [@GabrielTorrealba](https://github.com/GabrielJose2102)
 
